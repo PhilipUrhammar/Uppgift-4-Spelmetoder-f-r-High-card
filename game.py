@@ -1,6 +1,7 @@
 import random
 import os
 
+
 class Card:
     def __init__(self, value, suit):
         self.value = value
